@@ -1,6 +1,6 @@
 import java.util.Arrays;
 //see test cases.
-public class ArraysAreEqual {
+public class ArraysAreEqual { 
     /**
      * Check if two arrays are equal to each other. Return true if all of the values in a are
      * identical to the ones in b, and false otherwise. So, {1,2,3,4} is equal only to {1,2,3,4}.
